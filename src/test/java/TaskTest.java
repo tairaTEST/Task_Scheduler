@@ -1,7 +1,5 @@
-import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
-
-import static jdk.javadoc.internal.doclets.formats.html.markup.HtmlStyle.title;
+import org.junit.jupiter.api.Test;
 
 public class TaskTest {
     @Test
